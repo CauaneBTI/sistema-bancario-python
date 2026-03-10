@@ -6,12 +6,12 @@ Projeto desenvolvido durante o curso **Back-end com Python - DIO / Luizalabs**.
 
 - Criar usuário
 - Criar conta bancária
-- Depositar valores
+- Valores depositados
 - Realizar saques
 - Visualizar extrato
 - Listar contas
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - Python 3
 
