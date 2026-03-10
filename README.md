@@ -1,6 +1,8 @@
 # Sistema Bancário em Python
 
-Projeto desenvolvido durante o curso **Back-end com Python - DIO / Luizalabs**.
+Projeto desenvolvido durante o Bootcamp **Back-end com Python** da plataforma DIO em parceria com o **Luizalabs**.
+
+O objetivo do projeto é simular um sistema bancário utilizando conceitos de **Programação Orientada a Objetos (POO)** em Python.
 
 ## Funcionalidades
 
@@ -11,7 +13,7 @@ Projeto desenvolvido durante o curso **Back-end com Python - DIO / Luizalabs**.
 - Visualizar extrato
 - Listar contas
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - Python 3
 
